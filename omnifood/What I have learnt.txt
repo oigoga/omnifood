@@ -1,0 +1,12 @@
+How to merge classes to make stylling less bulky. 
+you can dowloadd grid and norrmalize css files from the intenet
+how to create a smooth transition 
+How to style both the link and visited and the hover and active. 
+I have leanred to  make all the elements centred by first putting them in a div and naming all the divs the same class
+How to style generic links 
+How to make a grid of images, zoom in transition and make  the background of images darker.
+Learnt how to put objects on a website directly from css
+learnt the fluid grid thing
+box shadow thing
+how to create and style forms
+centering div elements so important
